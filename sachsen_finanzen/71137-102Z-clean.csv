@@ -1,0 +1,256 @@
+Kennziffer;Art;Ausgaben (EUR) 2013
+999;Ausgaben des Verwaltungs- und Vermögenshaushalts;11752252481
+899;  Ausgaben des Verwaltungshaushalts;9909791673
+4;    Personalausgaben;2616762051
+40;      Aufwendungen für ehrenamtliche Tätigkeit;21986004
+41;      Besoldung, Vergütungen, Löhne;2076857666
+410;        Besoldung, Vergütungen, Löhne Beamte;175244760
+411;        Entgelte f. Altersteilzeitbeschäftigte - Beamte;36913
+412;        Entgelte f. Alt.TZ-Besch.- tarifl.Besch. (ab 2006);2763619
+414;        Tariflich Beschäftigte (ab 2006);1868497908
+416;        Beschäftigungsentgelte und dgl.;28800872
+417;        Entgelte für ABM-Beschäftigte (ab 2006);1025160
+419;        Entgelte für Kommunal-Kombi-Beschäftigte (ab 2009);488434
+42;      Versorgungsbezüge und dgl.;143947
+420;        Versorgungsbezüge und dgl. - Beamte;53024
+424;        Versorgungsbez.u. dgl. - Tarifl. Besch. (ab 2006);40891
+426;        Versorgungsbezüge und dgl. - Sonstige;50032
+43;      Beiträge zu Versorgungskassen;148434684
+430;        Beiträge zu Versorgungskassen - Beamte;83062604
+431;        Beitr. z. Versorgungsk.-Altersteilz.besch.-Beamte;24000
+432;        Altersteilzeit - tariflich Beschäftigte (ab 2006);127477
+434;        Beiträge zu Versorg.k. - Tarifl. Besch. (ab 2006);65126924
+436;        Beiträge zu Versorgungskassen - Sonstige;92006
+437;        Beiträge zu Versorg.k. ABM-Beschäftigte (ab 2006);871
+439;        Beiträge zu Versorg.k. Komm.Kombi-Besch. (ab 2009);802
+44;      Beiträge zur gesetzlichen Sozialversicherung;363052570
+440;        Beiträge zur gesetzlichen SV - Beamte;99601
+441;        Beitr. z. ges.SV-Entg.f.Altersteilz.besch.-Beamte;-
+442;        Altersteilzeit - tariflich Beschäftigte (ab 2006);677977
+444;        Beitr. z. gesetzl.SV - Tarifl. Beschäft. (ab 2006);357792147
+446;        Beitr. z. gesetzl.SV - Sonstige;4205664
+447;        Beitr. z. gesetzl. SV - ABM-Beschäftigte (ab 2006);183056
+449;        Beitr. z. gesetzl. SV - Komm.-Kombi.Besch. (ab 09);94125
+45;      Beihilfen, Unterstützungen und dgl.;4351167
+46;      Personal-Nebenausgaben;1936013
+5;    Sächl. Verwaltungs- u. Betriebsaufw. (50-56);987343194
+50;      Unterhaltung der Grundstücke und baulichen Anlagen;173565259
+51;      Unterhaltung des sonstigen unbeweglichen Vermögens;196603107
+52;      Geräte,Ausstatt.-,Ausrüst.-,Gebrauchsgegenstände;62896647
+53;      Mieten und Pachten;87057147
+54;      Bewirtsch.d.Grundstücke, baulichen Anlagen usw.;405797240
+55;      Haltung von Fahrzeugen;43257084
+56;      Besondere Aufwendungen für Bedienstete;18166710
+6;    Sächl. Verwaltungs- u. Betriebsaufw. (57-69);1552080917
+638;      Weit.Verw.-,Betriebsausg.,d.h.Gr.57-63 oh.639;314199721
+639;      Schülerbeförderungskosten (ab 2005 nur f. Bef.Tr.);59680178
+64;      Steuern, Versich., Schadensfälle, Sonderausgaben;45700024
+65;      Geschäftsausgaben;131389916
+66;      Weitere allgemeine sächliche Ausgaben;68767092
+660;        Verfügungsmittel;50650
+661;        Mitgliedsbeiträge an Verbände und dgl.;575220
+662;        Geschäftsführungskosten der Fraktionen;5452
+668;        Vermischte Ausgaben;68135770
+67;      Erstattungen von Verwaltungs- und Betriebsaufwand;356413300
+670;        Erstattung Verwalt.-,Betriebsaufwand an Bund;23651554
+671;        Erstattung Verwalt.-,Betriebsaufwand an Land;21140930
+672;        Erst.Verw.-,Betr.aufwand an Gem.,Gem.verbände;48663532
+673;        Erst.Verw.-,Betr.aufwand an Zweckverbände u.dgl.;25349817
+674;        Erst.Verw.-,Betr.aufwand an sonst.öff.Bereich;4212993
+675;        Erst.Verw.-,Betr.aufwand an komm.Sonderrechn.;62211169
+676;        Erst.Verw.-,Betr.aufwand an sonst.öff.Sonderr.;11314961
+677;        Erst.Verw.-,Betr.aufwand an priv.Unternehmen;96029149
+678;        Erst.Verw.-,Betr.aufwand an übrige Bereiche;60990691
+679;        Erst.Verw.-,Betr.aufwand-Innere Verrechnungen;2848504
+68;      Kalkulatorische Kosten;1231182
+680;        Abschreibungen;474201
+681;        Abschreib.f.Grundstücke,grundstücksgl. Rechte;85386
+682;        Abschreibung für bewegliche Sachen;106589
+685;        Verzinsung des Anlagekapitals;565006
+686;        Auflös.v.passivierten Beiträgen u.ähnl.Entgelten;-
+687;        Auflös.v.passivierten Zuweisungen u.Zuschüssen;-
+689;        Zuführ.v.Gebührenant.f.später entstehende Kosten;-
+69;      Aufgabenbezogene Leistungsbeteiligungen;574699504
+691;        Leist.beteil. b. Leist. f.Unterk./Heiz.an Arbeits.;554631576
+6911;          Leist.beteil. b. Leist. f.Unterkunft und Heizung;526306082
+6912;          Leist.beteil. b. sonst. Leist. f. Unterk./Heizung;28325494
+692;        Leist.beteil. b. Leist. z. Eingliedg. v. Arbeitss.;831432
+693;        Leist.beteil. b. einmaligen Leist. an Arbeitss.;9836696
+694;        Leist.bet. beim AL-Geld II einschl. Sozialgeld;294856
+695;        Leist.beteil. b. Eingliedg. v. Arbeitssuchenden;53285
+696;        Beteil.an Leist.f. BuT - Ber. Grunds. nach SGB II;9051659
+7;    Zuweisungen u. Zuschüsse (nicht für Investitionen);3340479751
+70;      Zusch.f. an gemeinn.,mildt.,kirchl. od.ähnl.Einr.;10609804
+71;      Zuw.u.so. Zuschüsse für lfd. Zwecke;1228730249
+710;        Zuw.u.so. Zusch.f.lfd.Zw.an Bund;31852
+711;        Zuw.u.so. Zusch.f.lfd.Zw.an Land;8198063
+712;        Zuw.u.so. Zusch.f.lfd.Zw.an Gem.,Gem.verbände;57540572
+713;        Zuw.u.so. Zusch.f.lfd.Zw.an Zweckverbände u.dgl.;52059874
+714;        Zuw.u.so. Zusch.f.lfd.Zw.an sonst.öff.Bereich;7598827
+715;        Zuw.u.so. Zusch.f.lfd.Zw.an komm.Sonderrechn.;438091950
+716;        Zuw.u.so. Zusch.f.lfd.Zw.an sonst.öff.Sonderr.;25708485
+717;        Zuw.u.so. Zusch.f.lfd.Zw.an private Unternehmen;177973447
+718;        Zuw.u.so. Zusch.f.lfd.Zw.an übrige Bereiche;461527179
+72;      Schuldendiensthilfen;648599
+720;        Schuldendiensthilfen an Bund;-
+721;        Schuldendiensthilfen an Land;-
+722;        Schuldendiensthilfen an Gemeinde/Gemeindeverbänden;4434
+723;        Schuldendiensthilfen an Zweckverbände und dgl.;582948
+724;        Schuldendiensthilfen an sonst.öffentl.Bereich;-
+725;        Schuldendiensthilfen an komm.Sonderrechnungen;51539
+;        Schuldendiensthilfen an sonst.öff.Sonderrechn.;-
+727;        Schuldendiensthilfen an private Unternehmen;-
+728;        Schuldendiensthilfen an übrige Bereiche;9678
+73;      Leist.d.Sozialh.an natürl.Pers. außerh.v.Einricht.;202457248
+74;      Leist.d.Sozialh.an natürl.Pers. in Einrichtungen;547110076
+75;      Leist.an Kriegsopfer u.ähnl.Anspruchsberechtigte;0
+76;      Leist.d.Jugendhilfe außerhalb von Einrichtungen;212194452
+77;      Leistungen der Jugendhilfe in Einrichtungen;184768536
+78;      Sonstige soziale Leistungen;908383158
+780;        Leist.nach dem Unterhaltsvorschussgesetz (UVG);-
+781;        Leistungen der Grundsicherung außerhalb von Einr.;-
+782;        Leistungen der Grundsicherung in Einrichtungen;-
+783;        Leistungen für Unterkunft und Heizung an Arbeitss.;263484004
+7831;          Leistungen für Unterkunft und Heizung;262082744
+7832;          Sonstige Leistungen für Unterkunft und Heizung;1401260
+784;        Leistungen zur Eingliederung von Arbeitssuchenden;2153808
+785;        Einmalige Leistungen an Arbeitssuchende;2492825
+786;        Arbeitslosengeld II einschließlich Sozialgeld;476478837
+787;        Leistungen zur Eingliederung von Arbeitssuchenden;84095302
+788;        Weitere soziale Leistungen;79678382
+7881;          Leist. nach Par.276 des Lastenausgleichsgesetzes;-
+7882;          Mehraufwandsentschädigungen;63626568
+7883;          Leist.d.Lkr. Par.2 Abs.1 Satz 1 La.blindengeldges.;-
+7884;          Leist.d.Lkr. Par.2 Abs.1 Satz 2 La.blindengeldges.;-
+7885;          Übrige soziale Leistungen;-
+7886;          Leist. für BuT für Kinderzuschlagsempfänger (BKGG);597009
+7887;          Leistungen für BuT für Wohngeldempfänger (WOGG);7416392
+7888;          Leist.f. BuT - Bereich Grundsich. nach dem SGB II;8038413
+;        Weitere soziale Leistungen des überörtl. Sozialtr.;-
+79;      Leistungen nach dem Asylbewerbergesetz;45577629
+8;    Sonstige Finanzausgaben;1413125761
+80;      Zinsausgaben;96201894
+800;        Zinsausgaben an Bund;0
+801;        Zinsausgaben an Land;25540
+802;        Zinsausgaben an Gemeinden und Gemeindeverbände;42938
+803;        Zinsausgaben an Zweckverbände und dgl.;40793
+804;        Zinsausgaben an sonstigen öffentlichen Bereich;0
+805;        Zinsausgaben an kommunale Sonderrechnungen;1591095
+806;        Zinsausgaben an sonstige öffentl. Sonderrechnungen;876531
+807;        Zinsausgaben an private Unternehmen;92874599
+808;        Zinsausgaben an übrige Bereiche;750398
+809;        Zinsausgaben - Innere Darlehen;-
+81;      Steuerbeteiligungen;106065120
+810;        Gewerbesteuerumlage;106065120
+82;      Allgemeine Zuweisungen;1341332
+821;        Allg. Zuw.an Land-Rückzahl.v.Bedarfszuweisungen;1127799
+822;        Allg. Zuw.an Gemeinden u.Gemeindeverbände;153811
+823;        Allgemeine Zuweisungen an Zweckverbände;55562
+824;        Allg. Zuw.an sonst.öffentlichen Bereich;4160
+83;      Allgemeine Umlagen;1154803190
+831;        Allgemeine Umlagen an Land;30237
+832;        Allg. Umlagen an Gemeinden und Gemeindeverbände;730055553
+8320;          Allgem. Umlagen an Gem./GV - Kreisumlage (ab 2009);708623437
+8321;          Allgem.Uml.an Gem./GV - Finanzausgl.uml. (ab 2009);16238407
+8322;          Allgem. Uml. an Gem./GV - Sonst. Umlagen (ab 2009);5193709
+833;        Allgemeine Umlagen an Zweckverbände und dgl.;13128258
+834;        Kulturumlage;25119128
+835;        Umlage KSV Sachsen;386470014
+84;      Weitere Finanzausgaben;54336015
+840;        Inanspruchn. aus Bürgschaften u.Gewährverträgen;81922
+841;        Sonstige Finanzausgaben;54254093
+86;      Zuführung zum Vermögenshaushalt;378210
+860;        Allgemeine Zuführung zum Vermögenshaushalt;34876
+861;        Zuführung zu Sonderrücklagen;343334
+89;      Abwicklung der Vorjahre;-
+892;        Deckung von Soll-Fehlbetr.d.Verwaltungshaushaltes;-
+998;  Ausgaben des Vermögenshaushalts;1842460808
+9;    Ausgaben des Vermögenshaushalts;1842460769
+90;      Zuführung zum Verwaltungshaushalt;229698
+900;        Allgemeine Zuführung zum Verwaltungshaushalt;183789
+901;        Entnahmen aus Sonderrücklagen;45909
+91;      Zuführungen an Rücklagen;1097310
+910;        Zuführungen an allgemeine Rücklagen;96323
+911;        Zuführungen an Sonderrücklagen;1000987
+3111;          Zuf. aus Sonderrückl., auß. Vorsorgerückl.(ab 09);636600
+3112;          Zuf. aus der Vorsorgerückl., allgem. Teil (ab 09);364387
+3113;          Zuf. aus der Vors.rücklage, invest. Teil (ab 09);0
+92;      Gewährung von Darlehen;12806982
+920;        Gewährung von Darlehen an Bund;0
+921;        Gewährung von Darlehen an Land;-
+922;        Gewähr.v.Darlehen an Gemeinden u.Gemeindeverbände;32739
+923;        Gewähr.v.Darlehen an Zweckverbände und dergl.;212654
+924;        Gewähr.v.Darlehen an sonst.öffentlichen Bereich;-
+925;        Gewähr.v.Darlehen an kommunale Sonderrechnungen;10232852
+926;        Gewähr.v.Darlehen an sonst.öffentl.Sonderrechn.;-
+927;        Gewährung von Darlehen an private Unternehmen;10000
+928;        Gewährung von Darlehen an übrige Bereiche;2318737
+93;      Vermögenserwerb;231433049
+930;        Erwerb von Beteiligungen, Kapitalerwerb;63761473
+932;        Erwerb von Grundstücken;53017362
+933;        Leas.-,Leibr.zahl.-Zus.hang m.Grunderw.,Tilg.Sch.;-
+935;        Erwerb von bewegl.Sachen des Anlagevermögens;114651774
+936;        Leas.zahl.-Zus.hang m.Erw.bew.Sachen d.Anl.verm.;2440
+94;      Baumaßnahmen (einschließlich der Gr. 95 und 96);930429108
+B01;        Baumaßnahmen, davon Allgemeine Verwaltung;123461662
+B02;        Baumaßnahmen, davon Schulen;197680448
+B03;        Baumaßnahmen, davon Eigene Sportstätten;32132754
+B04;        Baumaßnahmen, davon Städtepl.,Vermessung,Bauordng.;103259089
+B05;        Baumaßnahmen, davon Wohnungsbauf., Wohnungsfürs.;957080
+B06;        Baumaßnahmen, davon Straßen;251395184
+B07;        Baumaßnahmen, davon Abwasserbeseitigung;12434860
+B08;        Baumaßnahmen, davon Abfallbeseitigung;267505
+B09;        Baumaßnahmen, davon Versorgungsunternehmen;1135841
+B10;        Baumaßnahmen, davon Verkehrsunternehmen;675229
+B11;        Baumaßnahmen, davon Allgemeine Grundvermögen;1563343
+B12;        Baumaßnahmen, davon Übrige Aufgabenbereiche;205466113
+97;      Tilgung von Krediten, Rückzahlg. von inneren Darl.;526637164
+97X1;        Tilgg.v.Kr.,Rückz.v.inn.Darl.-ordentl.Tilgung;520487635
+9701;          ordentliche Tilgung an Bund;0
+9711;          ordentliche Tilgung an Land;102106
+9721;          ordentl.Tilgung an Gemeinden u.Gemeindeverbände;131000
+9731;          ordentliche Tilgung an Zweckverbände und dgl.;55641
+9741;          ordentl.Tilgung an sonst.öffentlichen Bereich;141360
+9751;          ordentliche Tilgung an kommunale Sonderechnungen;2262662
+9761;          ordentl.Tilgung an sonst.öffentl.Sonderrechn.;2660952
+9771;          ordentliche Tilgung an private Unternehmen;512865227
+9781;          ordentliche Tilgung an übrige Bereiche;2268687
+9791;          ordentliche Tilgung - Innere Darlehen;-
+97X2;        Tilgg.v.Kr.,Rückz.Inn.Darl.-außerord.Tilg.(Umsch.);6016066
+9702;          außerordentliche Tilgung, Umschuldung an Bund;-
+9712;          außerord.Tilg.(Umschuldung) an Land;-
+9722;          außerord.Tilg.(Umsch.) an Gemeinden und GV;-
+9732;          außerord.Tilg.(Umsch.) an Zweckverbände und dgl.;-
+9742;          außerord.Tilg.(Umsch.) an sonst.öffentl.Bereich;-
+9752;          außerord.Tilg.(Umsch.) an komm.Sonderrechnungen;2071415
+9762;          außerord.Tilg.(Umsch.) an sonst.öff.Sonderrechn.;2009792
+9772;          außerord.Tilg.(Umsch.) an private Unternehmen;1934859
+9782;          außerord.Tilg.(Umsch.) an übrige Bereiche;-
+9792;          außerord.Tilg.(Umschuldung) - Innere Darlehen;-
+97X3;        Tilgg.v.Kr.,Rückz.Inn.Darl.-außerord.Ti.(o.Umsch.);133463
+9703;          außerordentliche Tilgung (ohne Umschuldung)an Bund;-
+9713;          außerord.Tilg.(ohne Umsch.) an Land;-
+9723;          außerord.Tilg.(ohne Umsch.) an Gemeinden und GV;-
+9733;          außerord.Tilg.(o.Umsch.) an Zweckverbände und dgl.;-
+9743;          außerord.Tilg.(o.Umsch.) an sonst.öffentl.Bereich;-
+9753;          außerord.Tilg.(o.Umsch.) an komm.Sonderrechnungen;122900
+9763;          außerord.Tilg.(o.Umsch.) an sonst.öff.Sonderrechn.;-
+9773;          außerord.Tilg.(o.Umsch.) an private Unternehmen;10563
+9783;          außerord.Tilg.(ohne Umsch.) an übrige Bereiche;-
+9793;          außerord.Tilg.(ohne Umsch.) - Innere Darlehen;-
+98;      Zuweisungen und Zuschüsse für Investitionen;139766588
+980;        Zuweisungen, Zuschüsse für Investitionen an Bund;11742
+981;        Zuweisungen u.Zuschüsse für Investit. an Land;13648324
+982;        Zuw.,Zusch.f.Invest.an Gemeinden u.Gem.verbände;31180530
+983;        Zuw.,Zusch.f.Invest.an Zweckverbände und dgl.;5176828
+984;        Zuw.,Zusch.f.Invest.an sonst.öffentl.Bereich;12447752
+985;        Zuw.,Zusch.f.Invest.an komm.Sonderechnungen;38286355
+986;        Zuw.,Zusch.f.Invest.an sonst.öff.Sonderrechn.;873632
+987;        Zuw.,Zusch.f.Invest.an private Unternehmen;12833349
+988;        Zuw.,Zusch.f.Invest.an übrige Bereiche;25308076
+99;      Sonstige Ausgaben des Vermögenshaushalts;60870
+990;        Kreditbeschaffungskosten;40567
+991;        Ablösung von Dauerlasten;19473
+992;        Deckung von Soll-Fehlbetr.d.Vermögenshaushaltes;-
+993;        Sonstige Abführungen;830
+997;        Abf.an Erblastentilg.fonds n.Altsch.hilfegesetz;-

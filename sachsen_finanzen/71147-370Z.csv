@@ -1,0 +1,267 @@
+GENESIS-Tabelle: Temporär
+Jahresrechnung: Ausgaben des kommunalen Haushaltes,;;;;;;;;;;;;;;;;;;;;;;
+Gruppierungen, Gliederungen, Gemeinde,;;;;;;;;;;;;;;;;;;;;;;
+Jahre, Gebietsstand 01.01.14;;;;;;;;;;;;;;;;;;;;;;
+Rechnungsergebnisse der Gemeinden;;;;;;;;;;;;;;;;;;;;;;
+Freistaat Sachsen;;;;;;;;;;;;;;;;;;;;;;
+Gliederung: Gemeindeorgane;;;;;;;;;;;;;;;;;;;;;;
+Ausgaben (EUR);;;;;;;;;;;;;;;;;;;;;;
+;;1992;1993;1994;1995;1996;1997;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012
+GRJ999;Ausgaben des Verwaltungs- und Vermögenshaushalts;266563828;295769293;251322804;255186683;254088955;247541004;263442765;278585370;286509404;283288396;284422651;303422823;299418395;293806018;297231310;102548929;103380966;105159300;108367978;90735355;69746331
+GRJ899;  Ausgaben des Verwaltungshaushalts;85510514;96944584;82026488;83644253;82915672;81319525;87357771;91610827;94806060;93616279;94139865;100566044;99372793;97695297;98664118;101777314;101996541;104493174;107591929;90571975;69607467
+GRJ4;    Personalausgaben;76094932;86169759;72148876;71571342;70685941;69747566;75042430;78560980;80685465;79540347;79686660;84438058;85580249;83575226;83768649;85814287;85956397;86420277;90105744;77966716;61271042
+GRJ40;      Aufwendungen für ehrenamtliche Tätigkeit;13063153;13275488;11252080;12783591;11866159;11607246;11470061;10859104;11720049;11902248;11553527;11698675;11219146;11264666;11344261;11633501;11901785;12866810;12290352;10223330;8302325
+GRJ41;      Besoldung, Vergütungen, Löhne;54202817;63189384;53041879;51961772;52446536;51451523;55938241;59264783;59966634;58144267;58043720;58877751;59542550;58294674;57972947;57287513;56301586;54308632;55642479;46186957;36228267
+GRJ410;        Besoldung, Vergütungen, Löhne Beamte;842428;3837619;11993557;25004853;30258711;30553603;34166500;35286863;36581520;35225935;32898224;33513640;33542126;33570861;32948819;32642735;30506863;29279038;30337624;27136639;21686719
+GRJ411;        Entgelte f. Altersteilzeitbeschäftigte - Beamte;-;-;-;-;-;-;-;-;-;-;-;-;-;-;40266;40568;22869;66530;119642;64767;14902
+GRJ412;        Entgelte f. Alt.TZ-Besch.- tarifl.Besch. (ab 2006);-;-;-;-;-;-;-;-;-;-;-;1127455;1484334;1496558;1579832;1599718;1744514;1855258;2116748;1668126;1311458
+GRJ414;        Tariflich Beschäftigte (ab 2006);51910614;58636018;39886665;25476065;20741349;19727820;20819103;22712749;22290726;22068783;24659342;23749146;24015086;22901482;23174232;22714551;23628583;22679869;22689679;17159585;13126047
+GRJ416;        Beschäftigungsentgelte und dgl.;1449775;715747;1161657;1480854;1446476;1170100;952638;1265171;1094388;849549;486154;340465;334807;185527;173816;277701;351609;324573;326708;132584;86898
+GRJ417;        Entgelte für ABM-Beschäftigte (ab 2006);-;-;-;-;-;-;-;-;-;-;-;147045;166197;140246;55982;12240;47148;13288;4320;5256;-
+GRJ419;        Entgelte für Kommunal-Kombi-Beschäftigte (ab 2009);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;90076;47758;20000;2243
+GRJ42;      Versorgungsbezüge und dgl.;31401;10447;17962;4994;562;767;14250;80995;45132;55819;14766;21862;-;-;22805;14444;13712;9800;11281;13877;19452
+GRJ420;        Versorgungsbezüge und dgl. - Beamte;31401;10447;13478;4994;562;767;14250;80995;45132;55819;14766;21862;-;-;22805;6750;8100;9800;11281;13877;19452
+GRJ424;        Versorgungsbez.u. dgl. - Tarifl. Besch. (ab 2006);-;-;4484;-;-;-;-;-;-;-;-;-;-;-;-;7694;5612;-;-;-;-
+GRJ426;        Versorgungsbezüge und dgl. - Sonstige;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ43;      Beiträge zu Versorgungskassen;1001;187658;763768;1754917;1796601;2115873;2832538;3265182;3992655;4593542;4660129;8715524;8774112;8506569;8636213;11324996;12201014;13661084;16564716;17302663;13592122
+GRJ430;        Beiträge zu Versorgungskassen - Beamte;1001;180874;751368;1742715;1793086;1897428;2594085;2999382;3713192;4298062;4311211;7489209;7648400;7449985;7575111;10374782;11314568;12818400;15673419;16630808;13084922
+GRJ431;        Beitr. z. Versorgungsk.-Altersteilz.besch.-Beamte;-;-;-;-;-;-;-;-;-;-;-;-;-;-;10597;13905;16323;-;28600;24400;1690
+GRJ432;        Altersteilzeit - tariflich Beschäftigte (ab 2006);-;-;-;-;-;-;-;-;-;-;-;42119;59104;63438;72820;73276;74656;80275;91295;74060;60932
+GRJ434;        Beiträge zu Versorg.k. - Tarifl. Besch. (ab 2006);-;6525;12400;12202;3515;217843;237699;264975;278460;294356;348815;1183817;1067659;993050;977371;862702;795512;759153;769464;573245;444578
+GRJ436;        Beiträge zu Versorgungskassen - Sonstige;-;259;-;-;-;602;754;825;1003;1124;103;379;-1051;96;92;331;-45;-;849;-;-
+GRJ437;        Beiträge zu Versorg.k. ABM-Beschäftigte (ab 2006);-;-;-;-;-;-;-;-;-;-;-;-;-;-;222;-;-;-;-;-;-
+GRJ439;        Beiträge zu Versorg.k. Komm.Kombi-Besch. (ab 2009);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3256;1089;150;-
+GRJ44;      Beiträge zur gesetzlichen Sozialversicherung;8563606;9115598;6665942;4649515;4141118;4213661;4365511;4715753;4497725;4433471;4936877;4581926;5548620;4965823;5227514;4999596;5000448;5001185;4984360;3830560;2975352
+GRJ440;        Beiträge zur gesetzlichen SV - Beamte;101293;140870;181773;69908;36795;35276;31349;38494;39346;39480;23180;36261;8169;34065;58413;222622;118263;180177;161321;141777;166185
+GRJ441;        Beitr. z. ges.SV-Entg.f.Altersteilz.besch.-Beamte;-;-;-;-;-;-;-;-;-;-;-;-;-;-;198;-;-;136;-;6878;-
+GRJ442;        Altersteilzeit - tariflich Beschäftigte (ab 2006);-;-;-;-;-;-;-;-;-;-;-;281382;373858;372412;506043;409381;430778;468204;516703;412028;328995
+GRJ444;        Beitr. z. gesetzl.SV - Tarifl. Beschäft. (ab 2006);8183731;8860426;6296484;4332700;3857843;3966349;4187968;4491117;4336571;4309029;4866131;4212358;5121800;4528498;4622868;4327158;4414914;4303365;4264920;3245549;2453692
+GRJ446;        Beitr. z. gesetzl.SV - Sonstige;278582;114302;187685;246907;246480;212036;146194;186142;121808;84962;47566;20612;15880;6454;30915;38372;27959;24533;30499;15305;26055
+GRJ447;        Beitr. z. gesetzl. SV - ABM-Beschäftigte (ab 2006);-;-;-;-;-;-;-;-;-;-;-;31313;28913;24394;9077;2063;8534;2355;768;939;-
+GRJ449;        Beitr. z. gesetzl. SV - Komm.-Kombi.Besch. (ab 09);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;22415;10149;8084;425
+GRJ45;      Beihilfen, Unterstützungen und dgl.;6453;115721;164276;256816;275928;237305;294260;264963;343141;282050;242773;303966;267359;268821;269313;288221;275640;314992;341163;318617;107486
+GRJ46;      Personal-Nebenausgaben;226501;275463;242969;159737;159037;121191;127569;110200;120129;128950;234868;238354;228462;274673;295596;266016;262212;257774;271393;90712;46038
+GRJ5;    Sächl. Verwaltungs- u. Betriebsaufw. (50-56);1366328;1349057;1071543;1210747;1119523;995874;1028910;1126386;1119939;1054765;985809;1000951;989618;1045778;1113934;1151299;1154379;1140752;1204329;893843;685821
+GRJ50;      Unterhaltung der Grundstücke und baulichen Anlagen;165495;78162;40133;24143;16292;5044;14342;19374;48061;35830;41048;21166;25041;52036;64578;41083;54324;68811;37057;11961;63818
+GRJ51;      Unterhaltung des sonstigen unbeweglichen Vermögens;6276;4332;7152;3304;2603;17807;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ52;      Geräte,Ausstatt.-,Ausrüst.-,Gebrauchsgegenstände;342237;302980;167908;162038;179690;119222;149025;208536;130619;136665;137129;185544;160856;147411;150841;167213;158470;168340;187082;110194;62747
+GRJ53;      Mieten und Pachten;107336;189698;173970;304662;283099;235152;282752;300406;301454;324624;228929;257399;310233;307403;331049;357426;370965;312593;315136;214957;136375
+GRJ54;      Bewirtsch.d.Grundstücke, baulichen Anlagen usw.;256970;242091;190380;215065;191170;151994;129639;181297;208375;132677;144993;98846;105810;124580;129379;148952;125689;159201;145036;126477;66645
+GRJ55;      Haltung von Fahrzeugen;353320;374013;344202;357736;342488;323925;329180;300791;340550;324338;325467;353799;317256;349920;364585;358992;365908;332730;372831;301028;216712
+GRJ56;      Besondere Aufwendungen für Bedienstete;134694;157781;147798;143799;104181;142730;123972;115982;90880;100631;108243;84197;70422;64428;73502;77633;79023;99077;147187;129226;139524
+GRJ6;    Sächl. Verwaltungs- u. Betriebsaufw. (57-69);7740969;8902781;8502934;10196397;10406183;9864956;10339272;11042077;11543080;11703891;11678230;13361902;11198051;11667196;12443758;13600947;13378054;15021435;14024394;10664555;6774966
+GRJ638;      Weit.Verw.-,Betriebsausg.,d.h.Gr.57-63 oh.639;2314667;2467159;2273733;2142369;2321290;2050982;2041991;2631444;2905494;3066837;3199536;4768274;2391186;2386766;2729510;2940080;2894502;3301715;3026230;2463574;1419463
+GRJ639;      Schülerbeförderungskosten (ab 2005 nur f. Bef.Tr.);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ64;      Steuern, Versich., Schadensfälle, Sonderausgaben;236370;258863;326755;215869;389981;191516;167004;139207;137494;93824;96886;108925;82205;95087;86383;73429;69758;65778;74470;56517;49033
+GRJ65;      Geschäftsausgaben;3016156;3523683;3248448;4520919;3878705;4086290;4127743;4105451;4202795;4364237;3659698;3140881;3380243;3112860;3437750;4251813;3622771;3934574;2827971;2752134;1977859
+GRJ66;      Weitere allgemeine sächliche Ausgaben;1841210;2216456;2365000;2183070;2209013;1941915;2175709;2464596;2505820;2467535;2998424;4588226;4607324;4729357;4895495;4986003;5500936;6294558;6528992;4323753;2362567
+GRJ660;        Verfügungsmittel;1169866;1204742;1354543;1221559;1219817;1084198;1213826;1344644;1324080;1302565;1316525;1268596;1177995;1191698;1206844;1196187;1219102;1264468;1109977;1000116;699365
+GRJ661;        Mitgliedsbeiträge an Verbände und dgl.;-;-;-;-;-;-;-;-;-;-;-;936992;1012547;967787;973857;930982;965963;1056581;1146642;792840;557584
+GRJ662;        Geschäftsführungskosten der Fraktionen;-;-;-;-;-;-;-;-;-;-;-;2177114;1150364;2361864;2455247;2521252;2912688;3543853;3686336;2437746;1024942
+GRJ668;        Vermischte Ausgaben;671344;1011714;1010457;961511;989196;857717;961883;1119952;1181740;1164970;1681899;205524;1266418;208008;259547;337582;403183;429656;586037;93051;80676
+GRJ67;      Erstattungen von Verwaltungs- und Betriebsaufwand;332566;436620;288998;1134170;1607194;1594253;1819851;1697669;1791477;1711458;1720941;751414;735112;1340424;1280196;1296754;1241053;1363343;1523191;1029804;960697
+GRJ670;        Erstattung Verwalt.-,Betriebsaufwand an Bund;39025;165285;21575;-;22972;-;5348;-;71856;81198;74196;73966;62373;68611;56195;68325;-;-;-;-;-
+GRJ671;        Erstattung Verwalt.-,Betriebsaufwand an Land;-;-;-;169;-;-;-;-;-;-;2080;-;-;-;-;1808;8714;-;-;-;-
+GRJ672;        Erst.Verw.-,Betr.aufwand an Gem.,Gem.verbände;183673;170354;34326;67263;314167;229076;197914;38459;10889;16900;28657;79728;90998;434758;423790;346353;287963;331356;347755;353268;397573
+GRJ673;        Erst.Verw.-,Betr.aufwand an Zweckverbände u.dgl.;197;-;207;31;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ674;        Erst.Verw.-,Betr.aufwand an sonst.öff.Bereich;1230;814;1716;984;1008;997;1063;-;-;-;-;-;-;-;25;-;-;-;-;-;-
+GRJ675;        Erst.Verw.-,Betr.aufwand an komm.Sonderrechn.;-;-;143162;-;-;-;-;-;-;-;19835;27003;19226;153619;180878;174854;157460;167798;203843;15146;7886
+GRJ676;        Erst.Verw.-,Betr.aufwand an sonst.öff.Sonderr.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ677;        Erst.Verw.-,Betr.aufwand an priv.Unternehmen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ678;        Erst.Verw.-,Betr.aufwand an übrige Bereiche;100017;77251;64280;851318;919694;934822;1026854;1035979;944948;1017051;1039054;2524;1687;35854;27284;30766;57;1541;8903;-;10049
+GRJ679;        Erst.Verw.-,Betr.aufwand-Innere Verrechnungen;8424;22916;23732;214405;349353;429358;588672;623231;763784;596309;557119;568193;560828;647582;592024;674648;786859;862648;962690;661390;545189
+GRJ68;      Kalkulatorische Kosten;-;-;-;-;-;-;6974;3710;-;-;2745;4182;1981;2702;14424;52868;49034;61467;43540;38773;5347
+GRJ680;        Abschreibungen;-;-;-;-;-;-;-;826;-;-;2745;3738;1654;2379;9223;43752;37888;32717;32479;29623;5156
+GRJ681;        Abschreib.f.Grundstücke,grundstücksgl. Rechte;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1736;-;-;-
+GRJ682;        Abschreibung für bewegliche Sachen;-;-;-;-;-;-;5921;2508;-;-;-;-;-;-;180;120;120;12187;59;191;59
+GRJ685;        Verzinsung des Anlagekapitals;-;-;-;-;-;-;1053;376;-;-;-;444;327;323;5021;8996;11026;14827;11002;8959;132
+GRJ686;        Auflös.v.passivierten Beiträgen u.ähnl.Entgelten;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ687;        Auflös.v.passivierten Zuweisungen u.Zuschüssen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ689;        Zuführ.v.Gebührenant.f.später entstehende Kosten;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ69;      Aufgabenbezogene Leistungsbeteiligungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ691;        Leist.beteil. b. Leist. f.Unterk./Heiz.an Arbeits.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ6911;          Leist.beteil. b. Leist. f.Unterkunft und Heizung;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ6912;          Leist.beteil. b. sonst. Leist. f. Unterk./Heizung;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ692;        Leist.beteil. b. Leist. z. Eingliedg. v. Arbeitss.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ693;        Leist.beteil. b. einmaligen Leist. an Arbeitss.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ694;        Leist.bet. beim AL-Geld II einschl. Sozialgeld;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ695;        Leist.beteil. b. Eingliedg. v. Arbeitssuchenden;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ696;        Beteil.an Leist.f. BuT - Ber. Grunds. nach SGB II;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ7;    Zuweisungen u. Zuschüsse (nicht für Investitionen);308285;522987;303135;665767;704025;711129;947159;880678;1457576;1314783;1789166;1765133;1601835;1404890;1335576;1208262;1506045;1909177;2234609;1044794;875638
+GRJ70;      Zusch.f. an gemeinn.,mildt.,kirchl. od.ähnl.Einr.;166274;144636;155108;205960;187738;194342;467970;372035;471405;397696;806561;973316;1116508;1050518;1022753;967069;1151246;1329922;1451064;524650;394173
+GRJ71;      Zuw.u.so. Zuschüsse für lfd. Zwecke;142011;378351;148027;459807;516287;516787;479189;508643;986171;917087;982605;791817;485327;354372;312823;241193;354799;579255;783545;520144;481465
+GRJ710;        Zuw.u.so. Zusch.f.lfd.Zw.an Bund;-;-;-;158530;171689;-;581;22981;-;2934;-;-;-;-;-;-;-;-;-;-;-
+GRJ711;        Zuw.u.so. Zusch.f.lfd.Zw.an Land;-;15724;383;-;-;-;-;-;-;-;1225;-;10450;157;1120;2204;2721;1873;103;653;-
+GRJ712;        Zuw.u.so. Zusch.f.lfd.Zw.an Gem.,Gem.verbände;1528;28510;3956;13911;19762;20759;23956;8796;458773;392052;420014;338657;13108;8598;6100;5764;10667;6070;275364;198938;286809
+GRJ713;        Zuw.u.so. Zusch.f.lfd.Zw.an Zweckverbände u.dgl.;3274;201992;37694;18661;51937;62569;52628;51321;53974;49332;49116;68184;66689;63753;62828;58837;45164;-;-;-;-
+GRJ714;        Zuw.u.so. Zusch.f.lfd.Zw.an sonst.öff.Bereich;1041;128;-;-;62387;6364;19303;13394;8575;5092;21463;27035;26096;6500;20000;20000;23600;-;590;-;-
+GRJ715;        Zuw.u.so. Zusch.f.lfd.Zw.an komm.Sonderrechn.;243;-;-;-;-;-;-;2556;-;-;-;-;-;-;450;-;3046;3784;3784;-;-
+GRJ716;        Zuw.u.so. Zusch.f.lfd.Zw.an sonst.öff.Sonderr.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;52500;-;-;-;-
+GRJ717;        Zuw.u.so. Zusch.f.lfd.Zw.an private Unternehmen;411;-;-;-;102258;2556;-;-;2143;4592;7444;39743;64584;74808;51774;39631;62253;139328;103307;157601;59659
+GRJ718;        Zuw.u.so. Zusch.f.lfd.Zw.an übrige Bereiche;135514;131997;105994;268705;108254;424539;382721;409595;462706;463085;483343;318198;304400;200556;170551;114757;154848;428200;400397;162952;134997
+GRJ72;      Schuldendiensthilfen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ720;        Schuldendiensthilfen an Bund;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ721;        Schuldendiensthilfen an Land;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ722;        Schuldendiensthilfen an Gemeinde/Gemeindeverbänden;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ723;        Schuldendiensthilfen an Zweckverbände und dgl.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ724;        Schuldendiensthilfen an sonst.öffentl.Bereich;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ725;        Schuldendiensthilfen an komm.Sonderrechnungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ726;        Schuldendiensthilfen an sonst.öff.Sonderrechn.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ727;        Schuldendiensthilfen an private Unternehmen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ728;        Schuldendiensthilfen an übrige Bereiche;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ73;      Leist.d.Sozialh.an natürl.Pers. außerh.v.Einricht.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ74;      Leist.d.Sozialh.an natürl.Pers. in Einrichtungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ75;      Leist.an Kriegsopfer u.ähnl.Anspruchsberechtigte;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ76;      Leist.d.Jugendhilfe außerhalb von Einrichtungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ77;      Leistungen der Jugendhilfe in Einrichtungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ78;      Sonstige soziale Leistungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ780;        Leist.nach dem Unterhaltsvorschussgesetz (UVG);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ781;        Leistungen der Grundsicherung außerhalb von Einr.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ782;        Leistungen der Grundsicherung in Einrichtungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ783;        Leistungen für Unterkunft und Heizung an Arbeitss.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ7831;          Leistungen für Unterkunft und Heizung;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ7832;          Sonstige Leistungen für Unterkunft und Heizung;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ784;        Leistungen zur Eingliederung von Arbeitssuchenden;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ785;        Einmalige Leistungen an Arbeitssuchende;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ786;        Arbeitslosengeld II einschließlich Sozialgeld;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ787;        Leistungen zur Eingliederung von Arbeitssuchenden;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ788;        Weitere soziale Leistungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ7881;          Leist. nach Par.276 des Lastenausgleichsgesetzes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ7882;          Mehraufwandsentschädigungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ7883;          Leist.d.Lkr. Par.2 Abs.1 Satz 1 La.blindengeldges.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ7884;          Leist.d.Lkr. Par.2 Abs.1 Satz 2 La.blindengeldges.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ7885;          Übrige soziale Leistungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ7886;          Leist. für BuT für Kinderzuschlagsempfänger (BKGG);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ7887;          Leistungen für BuT für Wohngeldempfänger (WOGG);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ7888;          Leist.f. BuT - Bereich Grundsich. nach dem SGB II;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ789;        Weitere soziale Leistungen des überörtl. Sozialtr.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ79;      Leistungen nach dem Asylbewerbergesetz;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ8;    Sonstige Finanzausgaben;-;-;-;-;-;-;-;706;-;2493;-;-;3040;2207;2201;2519;1666;1533;22853;2067;-
+GRJ80;      Zinsausgaben;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ800;        Zinsausgaben an Bund;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ801;        Zinsausgaben an Land;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ802;        Zinsausgaben an Gemeinden und Gemeindeverbände;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ803;        Zinsausgaben an Zweckverbände und dgl.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ804;        Zinsausgaben an sonstigen öffentlichen Bereich;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ805;        Zinsausgaben an kommunale Sonderrechnungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ806;        Zinsausgaben an sonstige öffentl. Sonderrechnungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ807;        Zinsausgaben an private Unternehmen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ808;        Zinsausgaben an übrige Bereiche;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ809;        Zinsausgaben - Innere Darlehen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ81;      Steuerbeteiligungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ810;        Gewerbesteuerumlage;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ82;      Allgemeine Zuweisungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ821;        Allg. Zuw.an Land-Rückzahl.v.Bedarfszuweisungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ822;        Allg. Zuw.an Gemeinden u.Gemeindeverbände;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ823;        Allgemeine Zuweisungen an Zweckverbände;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ824;        Allg. Zuw.an sonst.öffentlichen Bereich;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ83;      Allgemeine Umlagen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ831;        Allgemeine Umlagen an Land;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ832;        Allg. Umlagen an Gemeinden und Gemeindeverbände;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ8320;          Allgem. Umlagen an Gem./GV - Kreisumlage (ab 2009);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ8321;          Allgem.Uml.an Gem./GV - Finanzausgl.uml. (ab 2009);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ8322;          Allgem. Uml. an Gem./GV - Sonst. Umlagen (ab 2009);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ833;        Allgemeine Umlagen an Zweckverbände und dgl.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ834;        Kulturumlage;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ835;        Umlage KSV Sachsen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ84;      Weitere Finanzausgaben;-;-;-;-;-;-;-;706;-;2493;-;-;3040;2207;2201;2519;1666;1533;22853;2067;-
+GRJ840;        Inanspruchn. aus Bürgschaften u.Gewährverträgen;-;-;-;-;-;-;-;706;-;2493;-;-;3040;2207;2201;2519;1666;1533;22853;2067;-
+GRJ841;        Sonstige Finanzausgaben;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ86;      Zuführung zum Vermögenshaushalt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ860;        Allgemeine Zuführung zum Vermögenshaushalt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ861;        Zuführung zu Sonderrücklagen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ89;      Abwicklung der Vorjahre;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ892;        Deckung von Soll-Fehlbetr.d.Verwaltungshaushaltes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ998;  Ausgaben des Vermögenshaushalts;181053314;198824709;169296316;171542430;171173283;166221479;176084994;186974543;191703344;189672117;190282786;202856779;200045602;196110721;198567192;771615;1384425;666126;776049;163380;138864
+GRJ9;    Ausgaben des Vermögenshaushalts;3344080;1645165;1747779;1417975;1780659;1194148;456502;1250975;697089;813205;667687;574895;433335;240041;412986;771615;1384425;666126;776049;163380;138864
+GRJ90;      Zuführung zum Verwaltungshaushalt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ900;        Allgemeine Zuführung zum Verwaltungshaushalt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ901;        Entnahmen aus Sonderrücklagen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ91;      Zuführungen an Rücklagen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ910;        Zuführungen an allgemeine Rücklagen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ911;        Zuführungen an Sonderrücklagen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9111;          Zuf. aus Sonderrückl., auß. Vorsorgerückl.(ab 09);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9112;          Zuf. aus der Vorsorgerückl., allgem. Teil (ab 09);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9113;          Zuf. aus der Vors.rücklage, invest. Teil (ab 09);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ92;      Gewährung von Darlehen;511;2556;-;-;-;-;-;-;8896;-;-;-;-;-;45000;-;-;-;-;-;-
+GRJ920;        Gewährung von Darlehen an Bund;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ921;        Gewährung von Darlehen an Land;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ922;        Gewähr.v.Darlehen an Gemeinden u.Gemeindeverbände;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ923;        Gewähr.v.Darlehen an Zweckverbände und dergl.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ924;        Gewähr.v.Darlehen an sonst.öffentlichen Bereich;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ925;        Gewähr.v.Darlehen an kommunale Sonderrechnungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ926;        Gewähr.v.Darlehen an sonst.öffentl.Sonderrechn.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ927;        Gewährung von Darlehen an private Unternehmen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ928;        Gewährung von Darlehen an übrige Bereiche;511;2556;-;-;-;-;-;-;8896;-;-;-;-;-;45000;-;-;-;-;-;-
+GRJ93;      Vermögenserwerb;1316713;560776;774405;965791;556564;682786;348338;354841;249654;284074;301672;322577;185554;122176;166384;175864;417159;417408;283077;98799;36457
+GRJ930;        Erwerb von Beteiligungen, Kapitalerwerb;-;9684;-;-;-;-;-;-;-;-;2100;45000;2034;86;-;-;-;-;-;-;-
+GRJ932;        Erwerb von Grundstücken;419844;94703;158405;42175;5970;153279;38105;39875;4303;9521;-;-;-;-;-;-;-;-;-;-;-
+GRJ933;        Leas.-,Leibr.zahl.-Zus.hang m.Grunderw.,Tilg.Sch.;-;6782;12286;7426;4641;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ935;        Erwerb von bewegl.Sachen des Anlagevermögens;895709;435455;580196;896961;530709;497582;287762;299444;231671;265890;290909;276950;183520;122090;164491;168838;408049;410268;280437;96141;33799
+GRJ936;        Leas.zahl.-Zus.hang m.Erw.bew.Sachen d.Anl.verm.;1160;14152;23518;19229;15244;31925;22471;15522;13680;8663;8663;627;-;-;1893;7026;9110;7140;2640;2658;2658
+GRJ94;      Baumaßnahmen (einschließlich der Gr. 95 und 96);2008900;1079322;929147;426866;848772;503897;79687;864471;435125;403927;335200;167478;47281;33865;115102;15349;20459;103318;56670;16011;6992
+GRJ97;      Tilgung von Krediten, Rückzahlg. von inneren Darl.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ97X1;        Tilgg.v.Kr.,Rückz.v.inn.Darl.-ordentl.Tilgung;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9701;          ordentliche Tilgung an Bund;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9711;          ordentliche Tilgung an Land;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9721;          ordentl.Tilgung an Gemeinden u.Gemeindeverbände;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9731;          ordentliche Tilgung an Zweckverbände und dgl.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9741;          ordentl.Tilgung an sonst.öffentlichen Bereich;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9751;          ordentliche Tilgung an kommunale Sonderechnungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9761;          ordentl.Tilgung an sonst.öffentl.Sonderrechn.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9771;          ordentliche Tilgung an private Unternehmen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9781;          ordentliche Tilgung an übrige Bereiche;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9791;          ordentliche Tilgung - Innere Darlehen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ97X2;        Tilgg.v.Kr.,Rückz.Inn.Darl.-außerord.Tilg.(Umsch.);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9702;          außerordentliche Tilgung, Umschuldung an Bund;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9712;          außerord.Tilg.(Umschuldung) an Land;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9722;          außerord.Tilg.(Umsch.) an Gemeinden und GV;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9732;          außerord.Tilg.(Umsch.) an Zweckverbände und dgl.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9742;          außerord.Tilg.(Umsch.) an sonst.öffentl.Bereich;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9752;          außerord.Tilg.(Umsch.) an komm.Sonderrechnungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9762;          außerord.Tilg.(Umsch.) an sonst.öff.Sonderrechn.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9772;          außerord.Tilg.(Umsch.) an private Unternehmen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9782;          außerord.Tilg.(Umsch.) an übrige Bereiche;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9792;          außerord.Tilg.(Umschuldung) - Innere Darlehen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ97X3;        Tilgg.v.Kr.,Rückz.Inn.Darl.-außerord.Ti.(o.Umsch.);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9703;          außerordentliche Tilgung (ohne Umschuldung)an Bund;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9713;          außerord.Tilg.(ohne Umsch.) an Land;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9723;          außerord.Tilg.(ohne Umsch.) an Gemeinden und GV;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9733;          außerord.Tilg.(o.Umsch.) an Zweckverbände und dgl.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9743;          außerord.Tilg.(o.Umsch.) an sonst.öffentl.Bereich;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9753;          außerord.Tilg.(o.Umsch.) an komm.Sonderrechnungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9763;          außerord.Tilg.(o.Umsch.) an sonst.öff.Sonderrechn.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9773;          außerord.Tilg.(o.Umsch.) an private Unternehmen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9783;          außerord.Tilg.(ohne Umsch.) an übrige Bereiche;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ9793;          außerord.Tilg.(ohne Umsch.) - Innere Darlehen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ98;      Zuweisungen und Zuschüsse für Investitionen;17956;2511;44227;25318;375323;7465;28477;31663;3414;125204;30815;84840;200500;84000;86500;580402;946807;145400;436302;48570;95415
+GRJ980;        Zuweisungen, Zuschüsse für Investitionen an Bund;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ981;        Zuweisungen u.Zuschüsse für Investit. an Land;2601;2511;-;-;-;-;-;-;-;-;-;-;-;-;-;-;433022;-;-;-;-
+GRJ982;        Zuw.,Zusch.f.Invest.an Gemeinden u.Gem.verbände;-;-;2556;-;357904;-;-;-;-;-;-;-;-;-;-;-;180000;30000;90494;3337;-
+GRJ983;        Zuw.,Zusch.f.Invest.an Zweckverbände und dgl.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ984;        Zuw.,Zusch.f.Invest.an sonst.öffentl.Bereich;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ985;        Zuw.,Zusch.f.Invest.an komm.Sonderechnungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;5000;6400;53147;28353;-;-
+GRJ986;        Zuw.,Zusch.f.Invest.an sonst.öff.Sonderrechn.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;22539;-;304000;-;-
+GRJ987;        Zuw.,Zusch.f.Invest.an private Unternehmen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ988;        Zuw.,Zusch.f.Invest.an übrige Bereiche;15355;-;41671;25318;17419;7465;28477;31663;3414;125204;30815;84840;200500;84000;86500;575402;304846;62253;13455;45233;95415
+GRJ99;      Sonstige Ausgaben des Vermögenshaushalts;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ990;        Kreditbeschaffungskosten;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ991;        Ablösung von Dauerlasten;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ992;        Deckung von Soll-Fehlbetr.d.Vermögenshaushaltes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ993;        Sonstige Abführungen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+GRJ997;        Abf.an Erblastentilg.fonds n.Altsch.hilfegesetz;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+_____
+1) Die Kreis- bzw. NUTS 2-Regionsssummen enthalten auch
+   die Daten der Landkreise (Landkreishaushalte = LKH)
+   und der Verwaltungsverbände.
+   Das Ergebnis für Sachsen enthält darüber hinaus die
+   Daten des Kommunalen Sozialverbandes Sachsen (ehemals
+   Landeswohlfahrsverband).
+2) Differenzen bei den Summen 299, 398, 399, 899, 998 und
+   999 resultieren aus dem währungsbedingten
+   Umrechnungsmodus.
+_____
+(C)opyright Statistisches Landesamt des Freistaates Sachsen 2015 -
+Vervielfältigung und Verbreitung, auch auszugsweise,
+mit Quellenangabe gestattet
+Stand: 21.02.2015 / 14:29:39
