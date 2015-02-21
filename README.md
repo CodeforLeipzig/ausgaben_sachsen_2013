@@ -1,7 +1,7 @@
 Open Data Day 2015
 ==================
 
-Visualisierung der kommunalen Ausgaben Sachsen von 2013.
+Visualisierung der kommunalen Ausgaben Sachsens im Jahr 2013.
 
 Instructions
 ------------
