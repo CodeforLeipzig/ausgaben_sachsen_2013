@@ -2,15 +2,19 @@
 
 import codecs
 
+
 class Node(object):
     """docstring for Node"""
     def __init__(self, name, value, children):
         super(Node, self).__init__()
         self.name = name
-        self.value = value
+        self.value = value.strip()
         if self.value == "-":
             self.value = "0"
         self.children = children
+
+    def append_child(self, child):
+        self.children.append(child)
 
     def as_json(self):
         s = u'{"name":"' + self.name + '"'
@@ -23,9 +27,49 @@ class Node(object):
             s += u', "size":' +  self.value + u'}'
         return s
 
+
+def lines2nodes(lines):
+    #return [line2node(l.strip()) for l in lines]
+    stack = []
+    last_indent = None
+    last_node = None
+    for i in range(len(lines)):
+        l = lines[i]
+        components = l.split(";")
+        indent = len(components[0]) + 1 + len(components[1]) - len(components[1].lstrip(' '))
+        node = line2node(l)
+        if last_indent is not None and indent > last_indent:
+            stack.append(last_node)
+            last_node.append_child(node)
+        elif last_indent is not None and  last_indent - indent <= 1:
+            parent = stack.pop()
+            parent.append_child(node)
+            stack.append(parent)
+        elif last_indent is not None and last_indent - indent >= 5:
+            stack.pop()
+            stack.pop()
+            parent = stack.pop()
+            parent.append_child(node)
+            stack.append(parent)
+        elif last_indent is not None and indent < last_indent:
+            stack.pop()
+            parent = stack.pop()
+            parent.append_child(node)
+            stack.append(parent)
+
+        last_indent = indent
+        last_node = node
+        print "i: " + str(indent) + " s: " + str(len(stack))
+
+    while len(stack) > 1:
+        stack.pop()
+    nodes = [ stack[0] ]
+    return nodes
+
 def line2node(line):
     components = line.split(";")
-    return Node(unicode(components[1].strip()), unicode(components[2]), [])
+    node = Node(unicode(components[1].strip()), unicode(components[2]), [])
+    return node
 
 
 def main():
@@ -34,7 +78,7 @@ def main():
         lines = f.readlines()
 
     lines = lines[1:] # skip header line
-    nodes = [line2node(l.strip()) for l in lines]
+    nodes = lines2nodes(lines)
     flare_node = Node("flare", "-", nodes)
 
     with codecs.open("flare.json", "w", "utf-8") as f:
