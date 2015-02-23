@@ -13,3 +13,11 @@ Screenshot
 ----------
 
 ![](https://raw.githubusercontent.com/CodeforLeipzig/ausgaben_sachsen_2013/master/screenshots/bubble_chart.png)
+
+License
+-------
+
+ * See 
+   LICENSE.txt
+ * For the data source and license see 
+   sachsen\_finanzen/DATA\_SOURCE\_AND\_LICENSE.txt
