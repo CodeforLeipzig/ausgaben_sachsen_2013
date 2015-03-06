@@ -45,21 +45,18 @@ def lines2nodes(lines):
             parent = stack.pop()
             parent.append_child(node)
             stack.append(parent)
-        elif last_indent is not None and last_indent - indent >= 5:
-            stack.pop()
-            stack.pop()
-            parent = stack.pop()
-            parent.append_child(node)
-            stack.append(parent)
         elif last_indent is not None and indent < last_indent:
-            stack.pop()
+            indent_diff = last_indent - indent
+            while indent_diff >= 2:
+                stack.pop()
+                indent_diff -= 3
             parent = stack.pop()
             parent.append_child(node)
             stack.append(parent)
 
+#        print "indent: " + str(indent) + " stack size: " + str(len(stack))
         last_indent = indent
         last_node = node
-        print "i: " + str(indent) + " s: " + str(len(stack))
 
     while len(stack) > 1:
         stack.pop()
