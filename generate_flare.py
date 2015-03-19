@@ -3,6 +3,16 @@
 import codecs
 
 
+INPUT_FILE = "sachsen_finanzen/71137-102Z-clean.csv"
+INPUT_ENCODING = "ISO-8859-1"
+OUTPUT_FILE = "flare.json"
+OUTPUT_ENCODING = "utf-8"
+CSV_DELIMITER = ";"
+
+INDENT_TOLERANCE = 1
+INDENT_MIN = 2
+INDENT = 3
+
 class Node(object):
     """docstring for Node"""
     def __init__(self, name, value, children):
@@ -35,21 +45,21 @@ def lines2nodes(lines):
     last_node = None
     for i in range(len(lines)):
         l = lines[i]
-        components = l.split(";")
+        components = l.split(CSV_DELIMITER)
         indent = len(components[0]) + 1 + len(components[1]) - len(components[1].lstrip(' '))
         node = line2node(l)
         if last_indent is not None and indent > last_indent:
             stack.append(last_node)
             last_node.append_child(node)
-        elif last_indent is not None and  last_indent - indent <= 1:
+        elif last_indent is not None and  last_indent - indent <= INDENT_TOLERANCE:
             parent = stack.pop()
             parent.append_child(node)
             stack.append(parent)
         elif last_indent is not None and indent < last_indent:
             indent_diff = last_indent - indent
-            while indent_diff >= 2:
+            while indent_diff >= INDENT_MIN:
                 stack.pop()
-                indent_diff -= 3
+                indent_diff -= INDENT
             parent = stack.pop()
             parent.append_child(node)
             stack.append(parent)
@@ -71,14 +81,14 @@ def line2node(line):
 
 def main():
     lines = []
-    with codecs.open("sachsen_finanzen/71137-102Z-clean.csv", encoding="ISO-8859-1") as f:
+    with codecs.open(INPUT_FILE, encoding=INPUT_ENCODING) as f:
         lines = f.readlines()
 
     lines = lines[1:] # skip header line
     nodes = lines2nodes(lines)
     flare_node = Node("flare", "-", nodes)
 
-    with codecs.open("flare.json", "w", "utf-8") as f:
+    with codecs.open(OUTPUT_FILE, "w", OUTPUT_ENCODING) as f:
         f.write(unicode(flare_node.as_json()))
 
 
